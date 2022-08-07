@@ -1,38 +1,10 @@
-baseURL = "https://Minjeong-CU.github.io/"
+baseURL = "https://cucyberclub.edu"
 languageCode = "en-us"
-title = "CU Cybersecurity Club"
-theme = "hugo-theme-cactus"
-
-[params]
-    colortheme = "classic" # dark, light, white, or classic
-    rss = true
-    description = "The website of the CU Cybersecurity Club"
-
-    [[params.social]]
-        name = "Slack"
-        link = "https://cucybersecurityclub.slack.com"
-
-    [[params.social]]
-        name = "Github"
-        link = "https://github.com/CU-Cybersecurity-Club"
-
-    [[params.social]]
-        name = "Twitter"
-        link = "https://twitter.com/CUCybersecurity"
+title = "My New Hugo Site"
+title = "Cyber Club"
 
 [menu]
 
     [[menu.main]]
-        name = "home"
-        url = "/"
-        weight = 1
-
-    [[menu.main]]
         name = "posts"
-        url = "/posts/"
-        weight = 2
-
-    [[menu.main]]
-        name = "tags"
-        url = "/tags/"
-        weight = 3
+        url = "/posts/
